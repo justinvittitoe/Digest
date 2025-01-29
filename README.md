@@ -92,6 +92,13 @@
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Javascript][Javascript.com]][Javascript-url]
+* VSCode
+* GitHub
+* Bootstrap
+* YouTube
+* DU Bootcamp video recordings
+* Chrome dev tools
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
