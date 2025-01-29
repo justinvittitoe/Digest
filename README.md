@@ -31,18 +31,18 @@
 <br />
 <div align="center">
   <a href="https://github.com/justinvittitoe/Digest">
-    <img src="./assets/css/images/Digest_Logo.png" alt="Logo" width="80" height="80">
+    <img src="./" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Digest</h3>
 
   <p align="center">
-    This project is a one stop shop diet recomendation website. This site provides clients with diet recomendations based on certain goals, dietary restrictions, medical restrictions, and their age.
+    Digest is a personalized nutrition app that helps users discover the best diet tailored to their unique needs. By considering dietary restrictions, medical conditions, nutrition goals, and age, Digest generates a custom meal plan that works for you. Whether you're managing allergies, trying to lose weight, or focusing on specific health goals, Digest makes eating well easy and accessible—so you can thrive, without the guesswork.
     <br />
     <a href="https://github.com/justinvittitoe/Digest"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="./assets/css/images/Digest_log_WHITE-GOLD.png">View Demo</a>
     &middot;
     &middot;
   </p>
@@ -90,8 +90,14 @@
 ### Built With
 
 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Javascript][Javascript.com]][Javascript-url]
+* Bootstrap
+* JavaScript
+* VSCode
+* GitHub
+* Bootstrap
+* YouTube
+* DU Bootcamp video recordings
+* Chrome dev tools
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -102,7 +108,7 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
+User story: As a user, I want to find the most appropriate diet plan that will meet my goals with corresponding recipes, workouts, & how to videos.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,7 +163,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Justin Vittitoe - [!linked-in[linkedin-url]][linkedin-shield]
+Justin Vittitoe - https://www.linkedin.com/in/justin-vittitoe-99a8861ba/ 
 
 Zach Donels - 
 
@@ -172,7 +178,7 @@ Project Link: [https://github.com/justinvittitoe/Digest](https://github.com/just
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* []() Dex
 * []()
 * []()
 
